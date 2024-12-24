@@ -41,3 +41,5 @@ ENV/
 data/*
 !data/mock_tweets.json
 .DS_Store
+installed.txt
+commands.txt
