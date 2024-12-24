@@ -112,3 +112,62 @@ streamlit run src/app.py
 ├── README.md            # Project documentation
 └── requirements.txt     # Dependencies
 ```
+
+## User Interface
+
+### Search Interface
+The tool provides an intuitive search interface with multiple filtering options:
+
+**Key Search Features:**
+- Complex query parsing (AND/OR operators, phrase matching)
+- Advanced filters:
+  - Date range selection
+  - Minimum engagement thresholds
+  - Author-specific searches
+
+### Results Tabs
+
+#### 1. Search Results Tab
+![Search Results Screenshot](screenshots/search_results.png)
+
+**Features:**
+- Displays matched tweets with full context
+- Relevance scoring for each tweet
+- Detailed engagement metrics (likes, retweets, replies)
+- Semantic relevance explanation for each matched tweet
+
+#### 2. Content Analysis Tab
+![Content Analysis Screenshot](screenshots/content_analysis.png)
+
+**Insights Include:**
+- **Popular Topics**
+  - Topic name
+  - Tweet count
+  - Importance score
+- **Top Keywords**
+  - Most frequently used terms
+- **Sentiment Overview**
+  - Overall sentiment score
+  - Sentiment summary
+- **Active Discussions**
+  - Most important tweet discussions
+  - Context and significance
+
+#### 3. Statistics Tab
+![Author Statistics Screenshot](screenshots/statistics.png)
+
+**Author Metrics:**
+- Total tweets
+- Total engagement
+- Average engagement per tweet
+- Top performing tweets
+- Engagement breakdown (likes, retweets, replies)
+
+### Filtering Capabilities
+- Select specific authors from search results
+- Filter by:
+  - Date range
+  - Minimum engagement
+  - Retweet count
+  - Like count
+  - Reply count
