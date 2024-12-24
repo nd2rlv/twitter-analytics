@@ -1,0 +1,578 @@
+[
+  {
+    "id": "1749821456378654721",
+    "text": "Just published our latest research on AI-powered smart contracts. The integration of machine learning models with blockchain tech is showing promising results for automated risk assessment and fraud detection. Check out the full report here! #BlockchainAI #Web3 #Innovation",
+    "created_at": "2024-01-23T14:30:00",
+    "author_id": "CryptoResearch_Lab",
+    "metrics": {
+      "retweet_count": 245,
+      "reply_count": 89,
+      "like_count": 678,
+      "quote_count": 34
+      }
+  },
+  {
+    "id": "1751234567890123456",
+    "text": "Important thread on Ethereum's upcoming protocol updates and their implications for DeFi scalability. The shift towards more efficient L2 solutions could be a game-changer for mainstream adoption. 1/6",
+    "created_at": "2024-02-15T09:45:00",
+    "author_id": "VitalikButerin",
+    "metrics": {
+      "retweet_count": 3456,
+      "reply_count": 892,
+      "like_count": 12543,
+      "quote_count": 567
+    }
+  },
+  {
+    "id": "1752987654321098765",
+    "text": "NEW: Our analysis shows DeFi TVL has reached $89B in Q1 2024. Key growth drivers: institutional adoption, regulatory clarity in major markets, and improved cross-chain infrastructure. Full insights in the thread below 🧵",
+    "created_at": "2024-03-05T16:20:00",
+    "author_id": "DeFi_Pulse",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 234,
+      "like_count": 1897,
+      "quote_count": 89
+    }
+  },
+  {
+    "id": "1753456789012345678",
+    "text": "Announced today: Binance is launching a new AI-powered trading analytics platform. This tool will help traders make more informed decisions using advanced pattern recognition and market sentiment analysis. #BinanceAI #CryptoTrading",
+    "created_at": "2024-03-20T11:15:00",
+    "author_id": "cz_binance",
+    "metrics": {
+      "retweet_count": 4567,
+      "reply_count": 1234,
+      "like_count": 15678,
+      "quote_count": 789
+    }
+  },
+  {
+    "id": "1754567890123456789",
+    "text": "The convergence of AI and blockchain will fundamentally reshape governance structures. DAOs powered by AI agents could enable more efficient and fair decision-making processes. Exploring this in my latest research paper.",
+    "created_at": "2024-04-10T13:40:00",
+    "author_id": "balajis",
+    "metrics": {
+      "retweet_count": 2345,
+      "reply_count": 678,
+      "like_count": 8901,
+      "quote_count": 345
+    }
+  },
+  {
+    "id": "1755678901234567890",
+    "text": "Breaking: SEC approves spot Bitcoin ETFs. This marks a historic moment for crypto adoption and institutional investment. Market analysis and implications in the thread below. #Bitcoin #Crypto #Finance",
+    "created_at": "2024-01-11T15:30:00",
+    "author_id": "CryptoAnalyst_Pro",
+    "metrics": {
+      "retweet_count": 5678,
+      "reply_count": 1543,
+      "like_count": 18901,
+      "quote_count": 876
+    }
+  },
+  {
+    "id": "1756789012345678901",
+    "text": "Our latest NFT marketplace analytics reveal a 300% growth in gaming-related NFTs since January. The intersection of blockchain gaming and digital collectibles is creating new economic opportunities. Full report: [link]",
+    "created_at": "2024-05-05T10:20:00",
+    "author_id": "NFT_Insights",
+    "metrics": {
+      "retweet_count": 789,
+      "reply_count": 234,
+      "like_count": 2345,
+      "quote_count": 123
+    }
+  },
+  {
+    "id": "1757890123456789012",
+    "text": "Ethereum layer 2 scaling solutions have processed over 1 billion transactions in Q2 2024. This milestone demonstrates the growing adoption of scalable blockchain infrastructure. Detailed metrics in the thread 🧵",
+    "created_at": "2024-06-15T09:30:00",
+    "author_id": "ETH_Researcher",
+    "metrics": {
+      "retweet_count": 1234,
+      "reply_count": 456,
+      "like_count": 3789,
+      "quote_count": 167
+    }
+  },
+  {
+    "id": "1758901234567890123",
+    "text": "Just ran the numbers on recent DeFi exploits - 90% could have been prevented with proper audit practices and AI-powered monitoring. We need to prioritize security in Web3. Here's our comprehensive security framework:",
+    "created_at": "2024-02-28T14:15:00",
+    "author_id": "Web3_Security",
+    "metrics": {
+      "retweet_count": 2789,
+      "reply_count": 567,
+      "like_count": 6543,
+      "quote_count": 234
+    }
+  },
+  {
+    "id": "1759012345678901234",
+    "text": "Interesting developments in blockchain interoperability. Cross-chain protocols have facilitated $50B in transfers this quarter. Network effects are becoming more apparent. Full analysis coming soon.",
+    "created_at": "2024-04-25T16:45:00",
+    "author_id": "Chain_Analytics",
+    "metrics": {
+      "retweet_count": 890,
+      "reply_count": 345,
+      "like_count": 2567,
+      "quote_count": 98
+    }
+  },
+  {
+    "id": "1760123456789012345",
+    "text": "My thoughts on the future of crypto regulation: We need a balanced approach that fosters innovation while protecting users. The new framework proposed by regulators shows promise. Detailed analysis in thread 🧵",
+    "created_at": "2024-03-12T11:30:00",
+    "author_id": "CryptoLawExpert",
+    "metrics": {
+      "retweet_count": 1567,
+      "reply_count": 678,
+      "like_count": 4532,
+      "quote_count": 234
+    }
+  },
+  {
+    "id": "1761234567890123456",
+    "text": "Binance launches decentralized identity solution powered by zero-knowledge proofs. This marks a significant step towards privacy-preserving blockchain applications. Implementation details below:",
+    "created_at": "2024-05-20T13:15:00",
+    "author_id": "cz_binance",
+    "metrics": {
+      "retweet_count": 3456,
+      "reply_count": 890,
+      "like_count": 9876,
+      "quote_count": 432
+    }
+  },
+  {
+    "id": "1762345678901234567",
+    "text": "New research paper: 'The Impact of AI on Blockchain Scalability' - Our findings suggest that AI-optimized consensus mechanisms could increase TPS by 200% while maintaining security. Full paper: [link]",
+    "created_at": "2024-06-02T15:45:00",
+    "author_id": "Blockchain_PhD",
+    "metrics": {
+      "retweet_count": 678,
+      "reply_count": 234,
+      "like_count": 1890,
+      "quote_count": 89
+    }
+  },
+  {
+    "id": "1763456789012345678",
+    "text": "The rise of AI-powered DAOs is fascinating. We're seeing emergent behaviors in governance that challenge traditional organizational structures. Some key observations from our latest research:",
+    "created_at": "2024-04-15T10:30:00",
+    "author_id": "DAO_Researcher",
+    "metrics": {
+      "retweet_count": 1234,
+      "reply_count": 456,
+      "like_count": 3567,
+      "quote_count": 167
+    }
+  },
+  {
+    "id": "1764567890123456789",
+    "text": "Just published our Q2 2024 NFT Market Report. Key findings: 1) Gaming NFTs dominate volume 2) AI-generated content creates new opportunities 3) Institutional interest growing. Full report in thread 🧵",
+    "created_at": "2024-07-01T14:20:00",
+    "author_id": "NFT_Analytics",
+    "metrics": {
+      "retweet_count": 890,
+      "reply_count": 345,
+      "like_count": 2345,
+      "quote_count": 123
+    }
+  },
+  {
+    "id": "1765678901234567890",
+    "text": "Excited to announce a breakthrough in zk-SNARK efficiency. Our team has reduced proof generation time by 65% while maintaining security guarantees. Technical details in the thread below:",
+    "created_at": "2024-05-10T11:45:00",
+    "author_id": "ZK_Research",
+    "metrics": {
+      "retweet_count": 1567,
+      "reply_count": 567,
+      "like_count": 4321,
+      "quote_count": 234
+    }
+  },
+  {
+    "id": "1766789012345678901",
+    "text": "Our latest market analysis shows institutional DeFi adoption has doubled since January. Key drivers: improved security, regulatory clarity, and better risk management tools. Full insights:",
+    "created_at": "2024-06-20T09:15:00",
+    "author_id": "DeFi_Metrics",
+    "metrics": {
+      "retweet_count": 2345,
+      "reply_count": 678,
+      "like_count": 5678,
+      "quote_count": 345
+    }
+  },
+  {
+    "id": "1767890123456789012",
+    "text": "The evolution of smart contract platforms is accelerating. Layer 1s are now processing 10k+ TPS with sub-second finality. Here's how the landscape has changed in 2024:",
+    "created_at": "2024-07-05T13:30:00",
+    "author_id": "Crypto_Architect",
+    "metrics": {
+      "retweet_count": 1234,
+      "reply_count": 456,
+      "like_count": 3456,
+      "quote_count": 167
+    }
+  },
+  {
+    "id": "1768901234567890123",
+    "text": "Just released: 'State of Web3 Security 2024' report. Analysis of major exploits, emerging threat vectors, and recommended security practices. Key findings in thread 🧵",
+    "created_at": "2024-03-25T15:45:00",
+    "author_id": "Web3_Security",
+    "metrics": {
+      "retweet_count": 3456,
+      "reply_count": 890,
+      "like_count": 7890,
+      "quote_count": 432
+    }
+  },
+  {
+    "id": "1769012345678901234",
+    "text": "Exploring the intersection of AI and crypto trading: Our ML models have achieved 85% accuracy in predicting major market movements. Methodology and results in the following thread:",
+    "created_at": "2024-04-30T10:20:00",
+    "author_id": "AI_CryptoTrader",
+    "metrics": {
+      "retweet_count": 1567,
+      "reply_count": 567,
+      "like_count": 4567,
+      "quote_count": 234
+    }
+  },
+  {
+    "id": "1770123456789012345",
+    "text": "Breaking: Major financial institutions are entering DeFi through our new institutional platform. This bridges TradFi and DeFi while ensuring regulatory compliance. Details below:",
+    "created_at": "2024-05-15T14:30:00",
+    "author_id": "cz_binance",
+    "metrics": {
+      "retweet_count": 4567,
+      "reply_count": 1234,
+      "like_count": 12345,
+      "quote_count": 678
+    }
+  },
+  {
+    "id": "1771234567890123456",
+    "text": "The future of blockchain scalability lies in modular architectures. Our latest research shows how data availability and execution can be optimized independently. Technical analysis:",
+    "created_at": "2024-06-10T11:15:00",
+    "author_id": "VitalikButerin",
+    "metrics": {
+      "retweet_count": 5678,
+      "reply_count": 1567,
+      "like_count": 15678,
+      "quote_count": 890
+    }
+  },
+  {
+    "id": "1772345678901234567",
+    "text": "New milestone: Our blockchain network has processed over 500M transactions in June 2024. Zero downtime, sub-second finality, and minimal fees. This is what mass adoption looks like.",
+    "created_at": "2024-07-02T16:45:00",
+    "author_id": "Chain_Metrics",
+    "metrics": {
+      "retweet_count": 2345,
+      "reply_count": 678,
+      "like_count": 6789,
+      "quote_count": 345
+    }
+  },
+  {
+    "id": "1773456789012345678",
+    "text": "Real-world asset tokenization has exceeded $1T in 2024. Traditional finance is being rebuilt on blockchain rails. Analysis of key sectors and growth drivers: 🧵",
+    "created_at": "2024-05-25T09:30:00",
+    "author_id": "TokenAnalytics",
+    "metrics": {
+      "retweet_count": 1890,
+      "reply_count": 567,
+      "like_count": 4567,
+      "quote_count": 234
+    }
+  },
+  {
+    "id": "1774567890123456789",
+    "text": "Regulatory developments in crypto are accelerating globally. Here's our analysis of recent policy changes and their implications for the industry moving forward:",
+    "created_at": "2024-06-05T13:20:00",
+    "author_id": "Crypto_Policy",
+    "metrics": {
+      "retweet_count": 1234,
+      "reply_count": 456,
+      "like_count": 3456,
+      "quote_count": 167
+    }
+  },
+  {
+    "id": "1775678901234567890",
+    "text": "The convergence of AI and NFTs is creating new possibilities for digital content creation and ownership. Our latest experiment with AI-generated NFTs shows promising results.",
+    "created_at": "2024-07-10T15:45:00",
+    "author_id": "NFT_Future",
+    "metrics": {
+      "retweet_count": 789,
+      "reply_count": 654,
+      "like_count": 4563,
+      "quote_count": 176
+    }
+  },
+  {
+    "id": "1849821456378654721",
+    "text": "Bitcoin continues to lead the crypto revolution in 2024. With growing institutional adoption and advancements in scalability, the future looks brighter than ever. #Bitcoin #CryptoTrends",
+    "created_at": "2024-12-20T14:30:00",
+    "author_id": "CryptoVisionary",
+    "metrics": {
+      "retweet_count": 456,
+      "reply_count": 123,
+      "like_count": 789,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1841234567890123456",
+    "text": "Web3 is NOT a scam. It's a transformative shift in how we interact with the internet. Critics overlook the foundational changes happening in data ownership. Here's why it matters 🧵",
+    "created_at": "2024-12-21T10:45:00",
+    "author_id": "Web3Defender",
+    "metrics": {
+      "retweet_count": 345,
+      "reply_count": 98,
+      "like_count": 567,
+      "quote_count": 32
+    }
+  },
+  {
+    "id": "1842987654321098765",
+    "text": "Blockchain innovation in 2024 is skyrocketing. From zero-knowledge proofs to new DeFi protocols, the crypto space is buzzing with activity. Our top trends: [link] #CryptoInnovation",
+    "created_at": "2024-12-22T16:20:00",
+    "author_id": "BlockchainGuru",
+    "metrics": {
+      "retweet_count": 678,
+      "reply_count": 234,
+      "like_count": 1234,
+      "quote_count": 54
+    }
+  },
+  {
+    "id": "1843456789012345678",
+    "text": "DeFi and NFTs are reshaping the way we think about ownership and finance. The growth in both sectors is proof of blockchain's disruptive power. Here's how they're interconnected 🧵",
+    "created_at": "2024-12-23T13:15:00",
+    "author_id": "CryptoThinkTank",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 189,
+      "like_count": 890,
+      "quote_count": 23
+    }
+  },
+  {
+    "id": "1844567890123456789",
+    "text": "Will Web3 regulations stifle innovation or provide much-needed clarity? 2024 is a pivotal year for crypto law globally. Here's what you need to know about upcoming changes 👇",
+    "created_at": "2024-12-24T11:20:00",
+    "author_id": "CryptoLawWatch",
+    "metrics": {
+      "retweet_count": 234,
+      "reply_count": 98,
+      "like_count": 432,
+      "quote_count": 12
+    }
+  },
+  {
+    "id": "1845678901234567890",
+    "text": "AI in blockchain is one of the most exciting trends of 2024. From predictive analytics in trading to smarter consensus mechanisms, the synergy is unmatched. Here's our report: [link]",
+    "created_at": "2024-12-25T09:45:00",
+    "author_id": "AI_Blockchain_Lab",
+    "metrics": {
+      "retweet_count": 789,
+      "reply_count": 345,
+      "like_count": 1234,
+      "quote_count": 89
+    }
+  },
+  {
+    "id": "1846789012345678901",
+    "text": "Bitcoin, Ethereum, and the broader crypto market continue to evolve. Layer 2 solutions and regulatory clarity are driving new use cases. Analysis: [link] #Bitcoin #Ethereum",
+    "created_at": "2024-12-26T12:30:00",
+    "author_id": "CryptoAnalysis",
+    "metrics": {
+      "retweet_count": 678,
+      "reply_count": 234,
+      "like_count": 890,
+      "quote_count": 34
+    }
+  },
+  {
+    "id": "1776789012345678902",
+    "text": "NFT game tokens down 45% this quarter. The 'sustainable play-to-earn' model isn't working as expected. High inflation and low player retention remain major challenges. Gaming NFTs might not be the future we thought. #NFTGaming",
+    "created_at": "2024-07-12T10:15:00",
+    "author_id": "NFT_Insights",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 234,
+      "like_count": 890,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1776789012345678903",
+    "text": "Layer 2 solutions aren't delivering on their promises. Network congestion persists, fees remain unpredictable, and bridges continue to be security risks. We need to rethink our scaling approach. Thread on the challenges: 🧵",
+    "created_at": "2024-07-12T11:30:00",
+    "author_id": "ETH_Researcher",
+    "metrics": {
+      "retweet_count": 789,
+      "reply_count": 345,
+      "like_count": 1234,
+      "quote_count": 67
+    }
+  },
+  {
+    "id": "1776789012345678904",
+    "text": "DeFi TVL stagnating at current levels despite market recovery. Institutional players remain hesitant due to regulatory uncertainty and recent protocol exploits. Analysis of key concerns:",
+    "created_at": "2024-07-12T12:45:00",
+    "author_id": "DeFi_Pulse",
+    "metrics": {
+      "retweet_count": 456,
+      "reply_count": 189,
+      "like_count": 678,
+      "quote_count": 34
+    }
+  },
+  {
+    "id": "1776789012345678905",
+    "text": "Current state of Web3: Less than 10% of dApps have meaningful daily active users. Most projects still searching for product-market fit. The gap between hype and reality remains significant.",
+    "created_at": "2024-07-12T13:20:00",
+    "author_id": "Web3_Security",
+    "metrics": {
+      "retweet_count": 890,
+      "reply_count": 456,
+      "like_count": 1567,
+      "quote_count": 89
+    }
+  },
+  {
+    "id": "1776789012345678906",
+    "text": "Cross-chain protocols seeing increased security incidents. $150M lost in bridge exploits this quarter alone. The multi-chain future comes with significant risks that we're still struggling to address.",
+    "created_at": "2024-07-12T14:30:00",
+    "author_id": "Chain_Analytics",
+    "metrics": {
+      "retweet_count": 678,
+      "reply_count": 234,
+      "like_count": 945,
+      "quote_count": 56
+    }
+  },
+  {
+    "id": "1776789012345678907",
+    "text": "The rush to implement AI in crypto trading is creating new vulnerabilities. ML models are being deployed without proper testing or understanding of their limitations. We need to slow down and prioritize safety.",
+    "created_at": "2024-07-12T15:45:00",
+    "author_id": "AI_CryptoTrader",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 234,
+      "like_count": 890,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1776789012345678908",
+    "text": "Modular blockchain architectures introducing new complexity layers. Network latency and data availability issues remain unsolved. Full technical breakdown of current limitations:",
+    "created_at": "2024-07-12T16:20:00",
+    "author_id": "Blockchain_PhD",
+    "metrics": {
+      "retweet_count": 456,
+      "reply_count": 189,
+      "like_count": 678,
+      "quote_count": 34
+    }
+  },
+  {
+    "id": "1776789012345678909",
+    "text": "Institutional DeFi adoption facing headwinds. Compliance challenges and lack of standardized risk assessment frameworks remain major obstacles. Current solutions aren't meeting enterprise requirements.",
+    "created_at": "2024-07-12T17:30:00",
+    "author_id": "DeFi_Metrics",
+    "metrics": {
+      "retweet_count": 789,
+      "reply_count": 345,
+      "like_count": 1234,
+      "quote_count": 67
+    }
+  },
+  {
+    "id": "1776789012345678910",
+    "text": "Smart contract platforms struggling with trilemma trade-offs. Higher TPS comes at the cost of decentralization and security. No clear solution in sight. Technical analysis of recent failures:",
+    "created_at": "2024-07-12T18:45:00",
+    "author_id": "Crypto_Architect",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 234,
+      "like_count": 890,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1776789012345678911",
+    "text": "Regulatory uncertainty causing significant delays in token innovation. Most projects stuck in legal limbo. The lack of clear guidelines is hampering genuine technological progress.",
+    "created_at": "2024-07-12T19:15:00",
+    "author_id": "TokenAnalytics",
+    "metrics": {
+      "retweet_count": 456,
+      "reply_count": 189,
+      "like_count": 678,
+      "quote_count": 34
+    }
+  },
+  {
+    "id": "1776789012345678912",
+    "text": "Update on blockchain network metrics: Transaction volume steady at 5M daily, fees averaging 0.15 ETH, node count stable around 4,500. No significant changes from last quarter. Full stats:",
+    "created_at": "2024-07-13T10:15:00",
+    "author_id": "ETH_Researcher",
+    "metrics": {
+      "retweet_count": 345,
+      "reply_count": 123,
+      "like_count": 567,
+      "quote_count": 28
+    }
+  },
+  {
+    "id": "1776789012345678913",
+    "text": "Latest report shows mixed results for DeFi adoption: retail user growth flat, institutional interest varies by sector. Compiled data and trends analysis available here:",
+    "created_at": "2024-07-13T11:30:00",
+    "author_id": "Web3_Security",
+    "metrics": {
+      "retweet_count": 234,
+      "reply_count": 98,
+      "like_count": 456,
+      "quote_count": 23
+    }
+  },
+  {
+    "id": "1776789012345678914",
+    "text": "Analyzing AI integration in crypto markets: 50% of projects report improved efficiency, 30% see no change, 20% face implementation challenges. Detailed findings in thread 🧵",
+    "created_at": "2024-07-13T12:45:00",
+    "author_id": "cz_binance",
+    "metrics": {
+      "retweet_count": 567,
+      "reply_count": 189,
+      "like_count": 890,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1776789012345678915",
+    "text": "Q2 2024 NFT market data: Total volume $2.8B, average price $340, unique traders 850k. Month-over-month trading activity remains consistent. Quarterly comparison:",
+    "created_at": "2024-07-13T13:20:00",
+    "author_id": "DAO_Researcher",
+    "metrics": {
+      "retweet_count": 234,
+      "reply_count": 87,
+      "like_count": 456,
+      "quote_count": 23
+    }
+  },
+  {
+    "id": "1776789012345678916",
+    "text": "Examining current regulatory landscape: 40% of jurisdictions have clear frameworks, 35% in development, 25% no specific crypto regulations. Status by region:",
+    "created_at": "2024-07-13T14:30:00",
+    "author_id": "TokenAnalytics",
+    "metrics": {
+      "retweet_count": 345,
+      "reply_count": 123,
+      "like_count": 567,
+      "quote_count": 28
+    }
+  }
+]
