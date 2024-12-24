@@ -2,6 +2,39 @@
 
 AI-powered tool for analyzing Twitter content, detecting trends, and generating insights using GPT models.
 
+## Search Examples
+
+The tool supports complex search queries:
+
+```
+# Complex search with filters
+"blockchain innovation OR crypto trends OR DeFi OR NFT OR Web3 OR regulations OR 'AI in blockchain' (2024) -filter:retweets lang:en"
+
+# Simple AND operation
+"Bitcoin AND crypto"
+
+# Exclusion example
+"Web3 -scam"
+
+# Author-specific search
+"from:VitalikButerin OR from:balajis OR from:cz_binance"
+
+# Industry insights search
+"blockchain insights OR crypto analysis OR 'thought leader' OR expert OR 'industry report' (2024) -filter:retweets lang:en"
+
+# Trending topics search
+"blockchain innovation OR crypto trends (2024) -filter:retweets lang:en"
+```
+
+### Search Operators
+- `AND`: Matches both terms
+- `OR`: Matches either term
+- `"phrase"`: Exact phrase match
+- `-term`: Excludes term
+- `(year)`: Filter by year
+- `lang:en`: Language filter
+- `from:user`: Author filter
+
 ## Note on Implementation
 
 Initially, the project was planned to use Twitter's API for real-time data. However, due to API rate limits and instability of alternative packages (tweepy, ntscraper), a curated JSON dataset was used for development and testing. In a production environment, the application can be easily modified to work with Twitter's official API, considering rate limiting strategies.
@@ -40,7 +73,9 @@ pip install -r requirements.txt
 
 # Set up environment variables
 cp .env.example .env
-# Add your OpenAI API key to .env
+
+# Update .env with your OpenAI API key:
+OPENAI_API_KEY=your_api_key_here
 ```
 
 ## Usage
