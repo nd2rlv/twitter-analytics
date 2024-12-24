@@ -2,6 +2,10 @@
 
 AI-powered tool for analyzing Twitter content, detecting trends, and generating insights using GPT models.
 
+## Note on Implementation
+
+Initially, the project was planned to use Twitter's API for real-time data. However, due to API rate limits and instability of alternative packages (tweepy, ntscraper), a curated JSON dataset was used for development and testing. In a production environment, the application can be easily modified to work with Twitter's official API, considering rate limiting strategies.
+
 ## Features
 
 🔍 **Search**
