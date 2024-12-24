@@ -38,5 +38,6 @@ ENV/
 *.log
 
 # Local data
-data/
+data/*
 !data/mock_tweets.json
+.DS_Store
