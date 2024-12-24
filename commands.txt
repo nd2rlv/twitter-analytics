@@ -1,0 +1,15 @@
+# Робоча папка проєкту
+cd /Users/nd2rlv/Documents/Personal/MyDocs/JobSearch/JobApplications/altRecipe/TestTask/
+
+# Створення environment
+python -m venv venv
+
+# Запуск environment
+source venv/bin/activate
+
+# Запуск тестів
+python -m pytest tests/test_integration.py
+python tests/test_integration.py
+
+# Запуск інтерфейсу
+streamlit run src/app.py
