@@ -107,10 +107,14 @@ streamlit run src/app.py
 │   └── search_prompts.py # GPT prompts
 ├── data/
 │   └── mock_tweets.json  # Sample data
+├── screenshots/          # User interface screenshots
+│   ├── search_results.png
+│   ├── content_analysis.png
+│   └── statistics.png
 ├── .env                  # OpenAI API key
-├── .gitignore           # Git ignore rules
-├── README.md            # Project documentation
-└── requirements.txt     # Dependencies
+├── .gitignore            # Git ignore rules
+├── README.md             # Project documentation
+└── requirements.txt      # Dependencies
 ```
 
 ## User Interface
